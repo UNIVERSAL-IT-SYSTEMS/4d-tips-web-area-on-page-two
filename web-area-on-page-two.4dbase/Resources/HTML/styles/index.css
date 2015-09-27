@@ -1,0 +1,14 @@
+html {
+	height:100%;
+}
+
+body {
+	height:auto;
+	width:auto;
+    font-family:"segoe ui",meiryo,"yu gothic","hiragino kaku gothic pron",sans-serif;
+    -webkit-font-smoothing:antialiased;
+    font-smooth:always;
+	background-color:#FEFBE7;
+    margin:0 0 0 0;
+    overflow:hidden;
+}
